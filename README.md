@@ -5,6 +5,8 @@ Project Repository address: https://github.com/JhonatanDP/team-profile-gen
 ## Pics
 ![_Users_jhonatandiaz_Desktop_Bootcamp_Modules_Module-10_Challenge_team-profile-gen_output_team html](https://user-images.githubusercontent.com/106892660/186500874-171aff70-602c-4e02-86a5-fce1bc302326.png)
 
+## Video link 
+https://drive.google.com/file/d/1nu-gOIOis8HSaPf-x_XBVMhzC_ud_aW7/view?usp=sharing
 
 ## User History
 - AS A manager
@@ -29,3 +31,11 @@ Project Repository address: https://github.com/JhonatanDP/team-profile-gen
 - THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 - WHEN I decide to finish building my team
 - THEN I exit the application, and the HTML is generated
+
+# Work done to complete the challenge
+- As suggested, I created the folder tree.
+- I created classes for each name, Employee, Manager, Engineer and Intern.
+- I created a test for each classes.
+- I added corresponding properties to classes.
+- I used Inquirer for the question.
+- I use fs for the file manipulation
